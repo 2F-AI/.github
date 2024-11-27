@@ -62,7 +62,7 @@ Requirements
 
 # Contact
 
-Contact us at two.fox.ai@gmail.com
+Contact us at two.fox.ai@gmail.com if you would like to join out team.
 
 <!--
 
