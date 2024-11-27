@@ -23,43 +23,6 @@ MuffinLM (short for Muffin Language Model) is designed for simplicity and flexib
 
 For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-AI/MuffinLM).
 
-## Key Features
-- **Multiple Versions**: Varying from casual to poetic or large-scale text generation.
-- **Easy to Use**: Launch with a single command.
-- **Dataset Support**: Customizable datasets for tailored model training.
-
-## Getting Started
-
-To run MuffinLM, clone the repository and run:
-
-```bash
-python main.py
-```
-
-Ensure you have PyTorch installed:
-```bash
-pip install torch
-```
-
-Versions Available
-
-Muffin v1
-
-Muffin v2 (including v2.7f, v2.7c, v2.7l)
-
-
-Dataset
-
-dataset-1.txt, dataset-2.txt, dataset-3.txt, etc.
-
-
-Requirements
-
-| **Requirement** | **Version** |
-|------------------|-------------|
-| Python           | 3.x         |
-| PyTorch          | Latest      |
-
 # Contact
 
 Contact us at two.fox.ai@gmail.com if you would like to join out team.
