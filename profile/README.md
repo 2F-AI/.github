@@ -20,7 +20,7 @@ Welcome to **2F AI**! We specialize in developing artificial intelligence models
 
 MuffinLM (short for Muffin Language Model) is designed for simplicity and flexibility in generating text. It supports various versions tuned for different writing styles, such as casual or fancy poetic outputs.
 
-For more details, visit the [MuffinLM GitHub Repository](https://github.com/FlameF0X/MuffinLM).
+For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-AI/MuffinLM).
 
 ## Key Features
 - **Multiple Versions**: Varying from casual to poetic or large-scale text generation.
