@@ -1,3 +1,10 @@
+  ____  _____      _    ___ 
+ |___ \|  ___|    / \  |_ _|
+   __) | |_      / _ \  | | 
+  / __/|  _|    / ___ \ | | 
+ |_____|_|     /_/   \_\___|
+                            
+
 # 2F AI - MuffinLM
 
 Welcome to **2F AI**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** – a lightweight text-generation AI built on LSTM.
