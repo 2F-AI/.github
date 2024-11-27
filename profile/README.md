@@ -12,9 +12,10 @@
 Welcome to **2F AI**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** – a lightweight text-generation AI built on LSTM.
 
 # Our Team
-| / | Members | Roles | About them |
-|---|---------|-------|------------|
-| 1 | [FlameF0X](https://github.com/FlameF0X/) | CEO and main developer | 406 Not Acceptable |
+| # | Members                                  | Roles            | About Them         |
+|---|------------------------------------------|------------------|--------------------|
+| 1 | [FlameF0X](https://github.com/FlameF0X/) | CEO and Main Dev | 406 Not Acceptable |
+
 
 ## About MuffinLM
 
