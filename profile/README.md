@@ -7,7 +7,7 @@
  |_____|_|     /_/   \_\___|
 ```-->
 
-# 2F AI - MuffinLM
+# 2F AI
 
 Welcome to **2F AI**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** – a lightweight text-generation AI built on LSTM.
 
