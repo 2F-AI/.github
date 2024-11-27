@@ -55,6 +55,10 @@ Python 3.x
 
 PyTorch
 
+# Contact
+
+Contact us at two.fox.ai@gmail.com
+
 <!--
 
 **Here are some ideas to get you started:**
