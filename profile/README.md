@@ -23,6 +23,11 @@ MuffinLM (short for Muffin Language Model) is designed for simplicity and flexib
 
 For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-AI/MuffinLM).
 
+# Roadmap
+
+1. Making MuffinLM to be able to have a conversation
+2. Making in into a Transformer
+
 # Contact
 
 Contact us at two.fox.ai@gmail.com if you would like to join out team.
