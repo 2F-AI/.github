@@ -9,7 +9,7 @@
 
 # 2F AI
 
-Welcome to **2F AI**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** – a lightweight text-generation AI built on LSTM.
+Welcome to **2F AI**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** – a lightweight text-generation AI built on LSTM and Transformer.
 
 ## Our Team
 | # | Members                                  | Roles            | About Them         |
@@ -26,11 +26,15 @@ For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-A
 ## Roadmap
 
 1. Making MuffinLM to be able to have a conversation
-2. Making in into a Transformer
+2. ~~Making in into a Transformer~~
 
 ## Contact
 
-Contact us at two.fox.ai@gmail.com if you would like to join out team.
+Contact us at **two.fox.ai@gmail.com** if you would like to join out team.
+
+---
+
+Existing since November 2024.
 
 <!--
 
