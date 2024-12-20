@@ -21,7 +21,7 @@ Welcome to **2F AI**! We specialize in developing artificial intelligence models
 
 MuffinLM (short for Muffin Language Model) is designed for simplicity and flexibility in generating text. It supports various versions tuned for different writing styles, such as casual or fancy poetic outputs. The current model size is 5.8M parameters.
 
-For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-AI/MuffinLM).
+For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-AI/MuffinLM-Beta).
 
 ## Roadmap
 
