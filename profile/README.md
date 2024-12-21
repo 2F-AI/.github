@@ -16,6 +16,7 @@ Welcome to **2F AI**! We specialize in developing artificial intelligence models
 |---|------------------------------------------|------------------|--------------------|
 | 1 | [FlameF0X](https://github.com/FlameF0X/) | CEO and Main Dev | 406 Not Acceptable |
 
+See @mentions for more
 
 ## About MuffinLM
 
