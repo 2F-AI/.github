@@ -13,7 +13,8 @@ Welcome to **2F AI**! We specialize in developing artificial intelligence models
 
 ---
 
-**Update**: We are currently planning on changing our name.
+**Update**: We are currently planning on changing our name. 
+-# Jun 29 2025 7PM
 
 ---
 
