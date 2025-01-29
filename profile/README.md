@@ -11,6 +11,10 @@
 
 Welcome to **2F AI**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** (MuffinLM-Beta) – a lightweight text-generation AI built on LSTM and Transformer.
 
+---
+Update: We are currently planning on changing our name.
+---
+
 ## Our Team
 We are made from:
 - 2F AI Team what contributes to all the 2F AI projects.
