@@ -24,7 +24,7 @@ We are made from:
 
 ## About MuffinLM
 
-MuffinLM (short for Muffin Language Model) is designed for simplicity and flexibility in generating text. It supports various versions tuned for different writing styles, such as casual or fancy poetic outputs. The current model size is 5.8M parameters.
+MuffinLM (short for Muffin Language Model) is designed for simplicity and flexibility in generating text. It supports various versions tuned for different writing styles, such as casual or fancy poetic outputs. We encouraged you to use our 5.8M parameters model because it's our best.
 
 For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-AI/MuffinLM-Beta).
 
