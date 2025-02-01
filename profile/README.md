@@ -7,9 +7,9 @@
  |_____|_|     /_/   \_\___|
 ```-->
 
-# 2F AI
+# Arctica
 
-Welcome to **2F AI**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** (MuffinLM-Beta) – a lightweight text-generation AI built on LSTM and Transformer.
+Welcome to **Arctica**! We specialize in developing artificial intelligence models, and our flagship project is **MuffinLM** (MuffinLM-Beta) – a lightweight text-generation AI built on LSTM and Transformer.
 
 ---
 
@@ -20,14 +20,14 @@ Welcome to **2F AI**! We specialize in developing artificial intelligence models
 
 ## Our Team
 We are made from:
-- 2F AI Team what contributes to all the 2F AI projects.
+- Arctica Team what contributes to all the Arctica projects.
 - MuffinLM Team what contributes to only **MuffinLM**
 
 ## About MuffinLM
 
 MuffinLM (short for Muffin Language Model) is designed for simplicity and flexibility in generating text. It supports various versions tuned for different writing styles, such as casual or fancy poetic outputs. We encouraged you to use our 5.8M parameters model because it's our best.
 
-For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-AI/MuffinLM-Beta).
+For more details, visit the [MuffinLM GitHub Repository](https://github.com/Arctica/MuffinLM-Beta).
 
 ## Roadmap
 
