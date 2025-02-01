@@ -27,6 +27,10 @@ For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-A
 1. Making MuffinLM to be able to have a conversation
 2. Making in into a Transformer
 
+## Budget
+
+Around 60 Euros
+
 ## Contact
 
 Contact us at **two.fox.ai@gmail.com** if you would like to join out team.
