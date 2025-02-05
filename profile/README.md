@@ -30,6 +30,7 @@ For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-A
 ## Budget
 
 Around 60 Euros
+
 ---
 
 Existing since November 2024.
