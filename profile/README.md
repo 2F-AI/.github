@@ -30,11 +30,6 @@ For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-A
 ## Budget
 
 Around 60 Euros
-
-## Contact
-
-Contact us at **two.fox.ai@gmail.com** if you would like to join out team.
-
 ---
 
 Existing since November 2024.
