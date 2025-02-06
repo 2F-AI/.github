@@ -29,7 +29,7 @@ For more details, visit the [MuffinLM GitHub Repository](https://github.com/2F-A
 
 ## Budget
 
-Around 60 Euros
+Around 60 Euros or more realistically 0 Euros, so dear team, I cant pay you if I need to.
 
 ---
 
