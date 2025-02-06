@@ -14,7 +14,7 @@ Welcome to **2F AI**! We specialize in developing artificial intelligence models
 ## Our Team
 We are made from:
 - 2F AI Team what contributes to all the 2F AI projects.
-- MuffinLM Team what contributes to only **MuffinLM**
+- MuffinLM Team what contributes to only [**MuffinLM**](https://github.com/2F-AI/MuffinLM-Beta)
 
 ## About MuffinLM
 
